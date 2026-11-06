@@ -1,16 +1,19 @@
 ## Hi there 👋
+I'm a Software Engineering student passionate about programming, graphics, and real-time simulations.
 
-<!--
-**tslAndy/tslAndy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
+🎮 Interested in game development and graphics programming.
 
-Here are some ideas to get you started:
+🖥️ Exploring GPU programming, shaders and rendering techniques.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⚛️ Interested in physics simulations, computational geometry, and algorithms.
+
+🔬 I like understanding how things work under the hood and building them from scratch.
+
+---
+🚀 What I'm working on
+
+Exploring graphics programming, simulation techniques, rendering algorithms, and ways to make computationally intensive systems faster and more efficient.
+Feel free to check out my repositories and projects! 
+
+Portfolio: https://github.com/tslAndy/Portfolio
